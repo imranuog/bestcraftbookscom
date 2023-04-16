@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Sample Page	</title>
-	<atom:link href="/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>/sample-page/</link>
+	<atom:link href="https://imranuog.github.io/bestcraftbookscom/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>https://imranuog.github.io/bestcraftbookscom/sample-page/</link>
 	<description></description>
 	<lastBuildDate>Sun, 16 Apr 2023 20:25:36 +0000</lastBuildDate>
 	<sy:updatePeriod>
